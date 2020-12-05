@@ -17,7 +17,6 @@ function Glint()
 			print('about - About Glint')
 			print('calc - Calculator')
 			print('help - This Menu')
-			print('cmd - CMD mode')
 		end
 
 		if (command == 'calc') then
