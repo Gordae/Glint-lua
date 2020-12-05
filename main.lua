@@ -1,6 +1,6 @@
 require=os
 
-local version = 2.0
+local version = 1
 
 function Glint()
 	while( true )
