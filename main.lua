@@ -34,8 +34,8 @@ function Glint()
 				answer = (valueA - valueB)
 				print('The Answer Is... ' .. answer .. '!')
 			end
+		end
 	end
-end
 end
 function startup()
 	local start = os.clock()
